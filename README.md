@@ -23,13 +23,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Lifecycle Stages</h2> Log into OsTicket 
+
+
+
+![image](https://github.com/Forevermorewon/ticket-lifecycle/assets/145600604/a7e983a2-f81b-4eec-ad72-680454f7dca7)
+
+
+
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the System admin has afforded all permissions and authorities the Agent user will solve tick issues according to protocol.
+  
 </p>
 <br />
 
